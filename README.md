@@ -6,4 +6,4 @@ Predicting handwritten digits from 0 - 9 images using a Concoluted Neural Networ
 Keras Mnist dataset was used to train the Neural Network with around 60k Samples
 
 
-![alt text](https://github.com/calvinwynne/CNN-Mnist-Dataset/blob/Images/Histograms.gif?raw=true)
+![alt text](https://github.com/calvinwynne/CNN-Mnist-Dataset/blob/Images/Histograms.gif ?raw=true)
